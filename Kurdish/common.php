@@ -53,7 +53,7 @@ $lang_common = array(
 'Subject'							=>	'سەردێڕ',
 'Message'							=>	'پەیام',
 'Topic'								=>	'بابەت',
-'Forum'								=>	'Forum',
+'Forum'								=>	'مەکۆ',
 'Posts'								=>	'پەیامەکان',
 'Replies'							=>	'وەڵامەکان',
 'Pages'								=>	':پەڕەکان',
@@ -91,7 +91,7 @@ $lang_common = array(
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'دەستپێک',
-'User list'							=>	'ئەندامان',
+'User list'							=>	'لیستی ئەندامان',
 'Rules'								=>	'یاساکان',
 'Search'							=>	'گەڕان',
 'Register'							=>	'تۆماربوون',
